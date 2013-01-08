@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.geishatokyo.jetty</groupId>
+  <artifactId>jetty-nosql-memcached</artifactId>
+  <versioning>
+    <release>0.3.2-SNAPSHOT-jar-with-dependencies</release>
+    <versions>
+      <version>0.3.2-SNAPSHOT-jar-with-dependencies</version>
+    </versions>
+    <lastUpdated>20121216165428</lastUpdated>
+  </versioning>
+</metadata>
